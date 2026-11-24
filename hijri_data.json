@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "updated": "2026-11-24",
+  "latestVersion": "1.0.0",
+  "payExceptions": {
+    "gov": { "2026-5": 24 }
+  },
+  "monthStarts": []
+}
